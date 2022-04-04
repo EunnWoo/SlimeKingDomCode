@@ -5,5 +5,5 @@ Unity로 제작된 3DMMORPG 팀 포토폴리오입니다.
 모든 파일은
 https://github.com/EunnWoo/JungEunWoo.git 이곳에 있습니다.
 
-기술서 링크 : http://naver.me/5JPdvfAt
+기술서 링크 : http://naver.me/FNuJjAI4
 영상 링크 : https://youtu.be/5mOGAuWfZsA
