@@ -1,5 +1,5 @@
 # SlimeKingDom
-Unity로 제작된 3DMMORPG 팀 포토폴리오입니다.
+Unity로 제작된 3DRPG 팀 포토폴리오입니다.
 
 현재 Repository에는 프로젝트에서 구현된 소스파일만 있으며 
 모든 파일은
